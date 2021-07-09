@@ -10,7 +10,7 @@ public class Main {
 		Logger[] loggers = {new DatabaseLogger(),new EmailLogger()};
 		CustomerManager customerManager2 = new CustomerManager(loggers);
 		
-		customerManager2.addMultiple(customer);
+		customerManager2.add(customer);
 		
 	}
 
