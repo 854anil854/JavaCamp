@@ -2,6 +2,7 @@ package interfaces;
 
 public class CustomerManager {
 	//manager sýnýfýnda interfaceimizi tanýmladýk ve constructor olusturduk
+	//dependency injection
 	//private Logger logger;
 	private Logger[] loggers;
 	
@@ -18,7 +19,7 @@ public class CustomerManager {
 //		logger.log(customer.getFirstName());
 //	}
 	
-	public void addMultiple(Customer customer) {
+	public void add(Customer customer) {
 		System.out.println(customer.getFirstName() +" customer added.");
 		
 		//static method
