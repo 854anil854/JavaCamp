@@ -5,4 +5,18 @@
     <fullyQualifiedTypeName name="interfaces.EmailLogger"/>
     <fullyQualifiedTypeName name="interfaces.CustomerManager"/>
     <fullyQualifiedTypeName name="interfaces.Utils"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.standard.DateTimeAtCompleted"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="Abstract.Entity"/>
+    <fullyQualifiedTypeName name="Concrete.NeroCustomerManager"/>
+    <fullyQualifiedTypeName name="Abstract.CustomerService"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tckimlik.WS.KPSPublic"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tckimlik.WS.KPSPublicSoap"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tckimlik.WS.KPSPublicSoapProxy"/>
+    <fullyQualifiedTypeName name="Entities.Customer"/>
+    <fullyQualifiedTypeName name="Abstract.BaseCustomerManager"/>
+    <fullyQualifiedTypeName name="Concrete.StarbucksCustomerManager"/>
+    <fullyQualifiedTypeName name="Abstract.CustomerCheckService"/>
+    <fullyQualifiedTypeName name="Adapters.MernisServiceAdapter"/>
 </qualifiedTypeNameHistroy>
